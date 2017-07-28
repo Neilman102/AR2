@@ -5,7 +5,7 @@ Alboranian Radio 2, for rock music
 AR2 is different from AR2. It plays rock music. Instead, the command will be ar@ instead of ar!.
 
 # Commands
-ar!help
+ar@help
 
 ar@play
 
